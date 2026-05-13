@@ -124,7 +124,6 @@ More detailed explanation if needed (wrap at 72 chars)
 - Point 1
 - Point 2
 
-Co-Authored-By: Oz <oz-agent@warp.dev>
 ```
 
 Examples:
@@ -215,4 +214,10 @@ All tests must pass before merging to main.
 
 **Thank you for contributing!**
 
-Co-Authored-By: Oz <oz-agent@warp.dev>
+
+---
+
+**Last Updated:** May 2026
+**Status:** ✅ Active
+
+Thank you for your interest in contributing to this project!

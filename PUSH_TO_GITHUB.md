@@ -123,4 +123,3 @@ This repository demonstrates to recruiters:
 
 **Ready to push!** Follow the steps above to get your automation project on GitHub.
 
-Co-Authored-By: Oz <oz-agent@warp.dev>

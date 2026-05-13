@@ -224,4 +224,3 @@ This project demonstrates:
 **Status:** ✅ Ready to Use
 **Next Action:** Push to GitHub
 
-Co-Authored-By: Oz <oz-agent@warp.dev>
